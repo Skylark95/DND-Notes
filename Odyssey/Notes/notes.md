@@ -18,15 +18,15 @@ Kyrah - agent of the oracle
 
 # Handout: Prophesy of the oracle 
 - shape silver fire of the 
-- cliam the might weapons 
-- drink deep from the dragonhorn
+- claim the might weapons 
+- drink deep from the dragon horn
 
 # Character Backstory
 - Demetria has something that belongs with me Mossy temple in the old woods
 
 # Travel
 - Party took an oath of service
-- 1 Furnished Dragonlord coin (give to Damen - litch)
+- 1 Furnished Dragon lord coin (give to Damen - litch)
 
 # Estoria
 - The horn is here
@@ -34,8 +34,8 @@ Kyrah - agent of the oracle
 
 ## The Kings palace - King Pythor
 - Let me tell you of my woes
-- Oath of peace, Titans take away his daugher
-- Order of Sydan, from lords of storms, daugher to be chained to rock of estor as offering
+- Oath of peace, Titans take away his daughter
+- Order of Sydan, from lords of storms, daughter to be chained to rock of estor as offering
 
 # Volkan's Hall
 
@@ -56,7 +56,7 @@ Kyrah - agent of the oracle
 -
 - 2 necklaces 4 rings, half dozen gems, and a book
   - Necklace is wife's ring
-  - Book pened by luteria, how to make maynid
+  - Book pinned by luteria, how to make maynid
 
 # Drink from horn
 - Ship of the Undead (The Ultros)
@@ -187,3 +187,15 @@ Storm
 
 ## Taren Nurdaggen Property
 - Shit went south
+- We did the murder
+
+## Collosus 
+- The Isle of Themes - Lady of coins wants to go there, she wants to find her sister, Thesalia, queen of the amazons, kill here and take her place
+  - There is also a legendary weapon there
+
+## Departure from Mythros
+- Gifts: These include four goats and two white cows from some of Mytros’s most respected farmers; a quiver of ten +1 arrows from the city's centurions; and six potions of healing, four potions of climbing, and four potions of resistance from the Academy.
+- Got a magic device to chart a course to an associated island, it is missing a gear, so you will need it to navigate to the forgotten sea (order of sydon (Gyus) has is probably on the isle of yonder)
+- Isle of Yonder is the headquarters of the Order of Sydon
+- 100 sailors have volunteered to be a part of our crew
+- **Handout:** a players map to the stars
